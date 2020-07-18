@@ -6,5 +6,7 @@ package com.atguigu.git;
  * @date 2020年7月19日 
 */
 public class Happy {
-
+	public static void main(String[] args) {
+		System.out.println("Test ...");
+	}
 }
